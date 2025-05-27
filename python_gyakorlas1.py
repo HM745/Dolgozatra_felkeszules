@@ -49,4 +49,5 @@ def lebego_pontos():
     szam = float(input("Lebegő pontos szám")) # Ez azért hasznos, mert így tud a program tört számot bekérni.
     print(szam)
 
-
+def sortores():
+    print("sortörés\nsortörés2") #Ahova rakod a \n-t ott lesz a sortörés.
